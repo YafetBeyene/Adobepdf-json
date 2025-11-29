@@ -36,8 +36,8 @@ class ExportPDFToJSON:
 
             # Local-only credentials (DO NOT commit these to git)
             credentials = ServicePrincipalCredentials(
-                client_id="a75a3c9883dc4ebf98c550156e15a51a",
-                client_secret="p8e-Cil5Vus_eD8c4yXHPbzX2HDjdpiFNuoP"
+                client_id="",
+                client_secret=""
             )
 
             # Create PDF Services instance
